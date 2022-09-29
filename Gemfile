@@ -15,6 +15,8 @@ gem "bootstrap-sass",  "3.4.1"
 #gem "sqlite3", "~> 1.4"
 gem "pg", " 1.3.5"
 
+gem "bcrypt", "3.1.18"
+
 # Use the Puma web server [https://github.com/puma/puma]
 gem "puma", "~> 5.0"
 
